@@ -1,0 +1,3 @@
+torch==1.0.1.post2
+tensorboard_logger
+numpy==1.16.1
